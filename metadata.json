@@ -1,0 +1,6 @@
+{
+  "name": "The Meridian Pivot - Power Learn Project",
+  "description": "Interactive industry working simulation portal for the 5-day Meridian Pivot sprint: Solo Recon unfamiliar tool prototypes, Northstar Retail live inventory polling-to-webhook refactoring, Scope Delta Analysis, and peer-rated Adaptability Index.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
